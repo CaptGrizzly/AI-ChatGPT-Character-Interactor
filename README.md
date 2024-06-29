@@ -8,7 +8,7 @@ If you would like a video explanation of this project, DougDoug made a video cov
 ## SETUP: 
 
 !!!!EXTREMELY IMPORTANT!!!!
-    - At the top of each character file, please replace the voice name where it says "ELEVENLABS_VOICE = "INSERT_NAME"" of each character file with the name of a voice in your VoiceLab on ElevenLabs.com, ALSO replace the file path where it says sys.path.append("C:YOUR\PATH\TO\Babagaboosh") with your path to Babagaboosh (The name of this folder with all the files for the app). Not doing so will render the file broken until replaced. Make sure your path is formatted exactly like this (  'c:\\Users\\Name\\Documents\\Babagaboosh'  ). This includes the apostrophies and the double back slashes. Information on how to get your file path is below.
+    - At the top of each character file, please replace the voice name where it says "ELEVENLABS_VOICE = "INSERT_NAME"" of each character file with the name of a voice in your VoiceLab on ElevenLabs.com, ALSO replace the file path where it says sys.path.append("C:YOUR\PATH\TO\Babagaboosh") with your path to Babagaboosh (The name of this folder with all the files for the app). Not doing so will render the file broken until replaced. Make sure your path is formatted exactly like this (  'c:\\Users\\Name\\Documents\\Babagaboosh'  ). This includes the apostrophies and the double back slashes. Information on how to get your file path is below. ALSO, make sure the folder that all these files are kept in is called "Babagaboosh" in order to run properly.
 
 
 1) This was written in Python 3.9.2. Install page here: https://www.python.org/downloads/release/python-392/. Either this, or download it via the Microsoft Store and it should set automatically
