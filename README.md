@@ -1,5 +1,5 @@
 # Babagaboosh
-Simple app that lets you have a verbal conversation with OpenAi's GPT 4.
+This is a Simple app that lets you have a verbal conversation with OpenAi's GPT 4.
 Written originally by the YouTube creator "DougDoug", Edited and optimized to the way it currently is by Bryson Bayer. 
 Feel free to use this for whatever you want! Credit is appreciated but not required, and any credit attributed primarily goes to DougDoug.
 
